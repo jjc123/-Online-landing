@@ -12,8 +12,12 @@ Javaweb实现在线登陆小Demo
  
  
 # 流程
-## 登陆：
+## 若别地登陆报错：
+
 ![](https://github.com/jjc123/-Online-landing/blob/master/image/1.png?raw=true )
-![](https://github.com/jjc123/-Online-landing/blob/master/image/2.png?raw=true )
+## 若账号密码错误：
 ![](https://github.com/jjc123/-Online-landing/blob/master/image/3.png?raw=true )
+## 账号密码正确，且无登录状态即登陆成功跳转到主页，显示所有成员
+![](https://github.com/jjc123/-Online-landing/blob/master/image/2.png?raw=true )
+
 ![](https://github.com/jjc123/-Online-landing/blob/master/image/4.png?raw=true )
