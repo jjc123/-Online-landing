@@ -24,3 +24,10 @@ Javaweb实现在线登陆小Demo
 
 ## 查看在线成员
 ![](https://github.com/jjc123/-Online-landing/blob/master/image/3.png?raw=true )
+
+## 添加所需的数据库
+mysql -uroot -p login < D:/login.sql
+Enter password: ******
+
+添加所需的jar包：
+https://pan.baidu.com/s/1ISTPDQOYF4Ofa6CO4XEoTQ
